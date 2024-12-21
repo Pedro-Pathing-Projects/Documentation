@@ -4,9 +4,9 @@
 based on Wolfpack Machina's powerplay autonomous movement.
 It uses a custom algorithm to follow trajectories with speed as a top priority.
 
-Docs: <https://pedro-pathing-projects.github.io/documentation/>
+Docs: <https://pedropathing.com/>
 
-Quickstart: <https://github.com/AnyiLin/Pedro-Pathing-Quickstart>
+Quickstart: <https://github.com/Pedro-Pathing/Pedro-Pathing-Quickstart>
 
 **Pros of Pedro:**
 
